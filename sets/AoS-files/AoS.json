@@ -1,14 +1,22 @@
 ﻿{
+    "name": "Age of Sigmar Shard Set",
+    "formats": "Limited, Commander",
+    "trimmed": "y",
+    "image_type": "png",
+    "draft_structure": "play booster",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Skaven Clanrat",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Rat Peasant",
+            "type": "Creature \u2014 Rat Peasant",
             "number": 3,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Squad {1}{B} [i](As an additional cost to cast this spell, you may pay {1}{B} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]\n[i]Ruination[/i] \u2013 This creature can't block unless the total mana value among cards in your graveyard is greater than or equal to 13.",
+            "rules_text": "Squad {1}{B} [i](As an additional cost to cast this spell, you may pay {1}{B} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]\n[i]Ruination[/i] \u2014 This creature can't block unless the total mana value among cards in your graveyard is greater than or equal to 13.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -18,19 +26,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "0",
-            "notes": "Skaven",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven"
         },
         {
             "card_name": "Stormvermin",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Rat Soldier",
+            "type": "Creature \u2014 Rat Soldier",
             "number": 79,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Squad {2}{B}\n[i]Ruination[/i] \u2013 This creature has +1/+1 and menace if the total mana value among cards in your graveyard is greater than or equal to 13.",
+            "rules_text": "Squad {2}{B}\n[i]Ruination[/i] \u2014 This creature has +1/+1 and menace if the total mana value among cards in your graveyard is greater than or equal to 13.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -40,15 +46,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "1",
-            "notes": "Skaven",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven"
         },
         {
             "card_name": "Night Runner",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Rat Rogue",
+            "type": "Creature \u2014 Rat Rogue",
             "number": 1,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -62,19 +66,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "2",
-            "notes": "Skaven",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven"
         },
         {
             "card_name": "Warplock Jezzail",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Rat Artificer",
+            "type": "Creature \u2014 Rat Artificer",
             "number": 4,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Reach\n[i]Ruination[/i] \u2013 {T}: This creature deals 1 damage to any target. Activate only as a sorcery. If there are cards with total mana value 13 or greater among cards in your graveyard, it deals 2 damage to that target instead.",
+            "rules_text": "Reach\n[i]Ruination[/i] \u2014 {T}: This creature deals 1 damage to any target. Activate only as a sorcery. If there are cards with total mana value 13 or greater among cards in your graveyard, it deals 2 damage to that target instead.",
             "flavor_text": "[i][/i]",
             "pt": "4/2",
             "special_text": "",
@@ -84,9 +86,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "3",
-            "notes": "Skaven",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven"
         },
         {
             "card_name": "Gnawhole Ambush",
@@ -106,9 +106,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "4",
-            "notes": "Skaven",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven"
         },
         {
             "card_name": "Devious Schemes",
@@ -128,15 +126,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "5",
-            "notes": "Skaven",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven"
         },
         {
             "card_name": "Acolyte Globadier",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Rat Artificer",
+            "type": "Creature \u2014 Rat Artificer",
             "number": 80,
             "color_identity": "R",
             "cost": "{R}",
@@ -150,9 +146,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "6",
-            "notes": "Skaven",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven"
         },
         {
             "card_name": "Eshin Surprise",
@@ -172,19 +166,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "7",
-            "notes": "Skaven",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven"
         },
         {
             "card_name": "Skaven Clawlord",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Rat Warrior",
+            "type": "Creature \u2014 Rat Warrior",
             "number": 76,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "[i]Ruination[/i] \u2013 Whenever you sacrifice another permanent with mana value 1 or greater, create a 1/1 black Rat Peasant creature token with \u201cThis token can't block.\u201d If the total mana value among cards in your graveyard is greater than or equal to 13, create two of those tokens instead.",
+            "rules_text": "[i]Ruination[/i] \u2014 Whenever you sacrifice another permanent with mana value 1 or greater, create a 1/1 black Rat Peasant creature token with \u201cThis token can't block.\u201d If the total mana value among cards in your graveyard is greater than or equal to 13, create two of those tokens instead.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -194,9 +186,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "8",
-            "notes": "Skaven",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven"
         },
         {
             "card_name": "Cornered Rats",
@@ -206,7 +196,7 @@
             "number": 131,
             "color_identity": "UBR",
             "cost": "{U}{B}{R}",
-            "rules_text": "[i]Ruinaiton[/i] \u2013 Choose one, if the total mana value among cards in your graveyard is greater than or equal to 13 you may choose one or more instead.\n\u2022 Target creature you control connives three times.\n\u2022 Cornered Rats deals X damage to any target, where X is half the greatest mana value among cards in your graveyard, rounded up.",
+            "rules_text": "[i]Ruinaiton[/i] \u2014 Choose one, if the total mana value among cards in your graveyard is greater than or equal to 13 you may choose one or more instead.\n\u2022 Target creature you control connives three times.\n\u2022 Cornered Rats deals X damage to any target, where X is half the greatest mana value among cards in your graveyard, rounded up.",
             "flavor_text": "[i]While many Skaven are cowards by nature. Sometimes they will choose fight over flight.[/i]",
             "pt": "",
             "special_text": "",
@@ -216,9 +206,7 @@
             "artist": "Creative Assembly",
             "alias": "",
             "position": "9",
-            "notes": "Unfinished Cards\nSkaven\nGrixis Uncommons",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Unfinished Cards\nSkaven\nGrixis Uncommons"
         },
         {
             "card_name": "Always Three Clawsteps Ahead",
@@ -228,7 +216,7 @@
             "number": 33,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "[i]Ruination \u2013[/i] At the beginning of your upkeep, choose one, if the total mana value among cards in your graveyard is greater than or equal to 13 you may choose one or more instead.\n\u2022 Surveil 2\n\u2022 Target creature you control connives.",
+            "rules_text": "[i]Ruination \u2014[/i] At the beginning of your upkeep, choose one, if the total mana value among cards in your graveyard is greater than or equal to 13 you may choose one or more instead.\n\u2022 Surveil 2\n\u2022 Target creature you control connives.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -238,15 +226,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "10",
-            "notes": "Cards I Want to Rework\nSkaven",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cards I Want to Rework\nSkaven"
         },
         {
             "card_name": "Warlock Bombardier",
             "color": "BR",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Rat Artificer",
+            "type": "Creature \u2014 Rat Artificer",
             "number": 175,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
@@ -260,19 +246,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "11",
-            "notes": "Skaven\nRakdos Uncommons",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven\nRakdos Uncommons"
         },
         {
             "card_name": "Grey Seer",
             "color": "UBR",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Rat Wizard",
+            "type": "Creature \u2014 Rat Wizard",
             "number": 139,
             "color_identity": "UBR",
             "cost": "{U}{B}{R}",
-            "rules_text": "When this creature enters, it connives. \n[i]Ruination[/i] \u2013 Whenever you discard a card, if the total mana value among cards in your graveyard is greater than or equal to 13. this creature deals 1 damage to any target.",
+            "rules_text": "When this creature enters, it connives. \n[i]Ruination[/i] \u2014 Whenever you discard a card, if the total mana value among cards in your graveyard is greater than or equal to 13. this creature deals 1 damage to any target.",
             "flavor_text": "[i]Grey Seers, the once in a generation Skaven mages, destined for greatness among the highest echelons of Skaven clan leadership. [/i]",
             "pt": "1/2",
             "special_text": "",
@@ -282,19 +266,17 @@
             "artist": "Eavy' Metal Team",
             "alias": "",
             "position": "12",
-            "notes": "Skaven\nGrixis Uncommons",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven\nGrixis Uncommons"
         },
         {
             "card_name": "Vizzik Skour",
             "color": "UBR",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Rat Demon Cleric",
+            "type": "Legendary Creature \u2014 Rat Demon Cleric",
             "number": 174,
             "color_identity": "UBR",
             "cost": "{2}{U}{B}{R}",
-            "rules_text": "Ward {2}\nWhenever Vizzik Skour attacks, you may discard a card. If you do, create X 1/1 black Rat Peasant creature tokens with \u201cthis token can't block\u201d that are tapped and attacking, where X is the mana value of the discarded card.\n[i]Ruination[/i] \u2013 If the total mana value among cards in your graveyard is greater than or equal to 13 Rats you control have \u201cWhenever this creature dies, it deals damage equal to its power to any target.\u201d",
+            "rules_text": "Ward {2}\nWhenever Vizzik Skour attacks, you may discard a card. If you do, create X 1/1 black Rat Peasant creature tokens with \u201cthis token can't block\u201d that are tapped and attacking, where X is the mana value of the discarded card.\n[i]Ruination[/i] \u2014 If the total mana value among cards in your graveyard is greater than or equal to 13 Rats you control have \u201cWhenever this creature dies, it deals damage equal to its power to any target.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "4/5",
             "special_text": "",
@@ -304,15 +286,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "13",
-            "notes": "Skaven",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven"
         },
         {
             "card_name": "Thanquol and Boneripper",
             "color": "UBR",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Rat Wizard Mutant",
+            "type": "Legendary Creature \u2014 Rat Wizard Mutant",
             "number": 169,
             "color_identity": "UBR",
             "cost": "{1}{U}{B}{R}",
@@ -326,19 +306,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "14",
-            "notes": "Skaven",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven"
         },
         {
             "card_name": "Stormfiend",
             "color": "UBR",
             "rarity": "mythic",
-            "type": "Creature \u2013 Rat Mutant",
+            "type": "Creature \u2014 Rat Mutant",
             "number": 166,
             "color_identity": "UBR",
             "cost": "{2}{U}{B}{R}",
-            "rules_text": "Squad\u2013Sacrifice two creatures with mana value 1 or greater\nHaste\nWhenever this creature attacks, it deals X damage to any target, where X is the greatest mana value among cards in your graveyard.",
+            "rules_text": "Squad\u2014Sacrifice two creatures with mana value 1 or greater\nHaste\nWhenever this creature attacks, it deals X damage to any target, where X is the greatest mana value among cards in your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -348,15 +326,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "15",
-            "notes": "Skaven",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven"
         },
         {
             "card_name": "Hell Pit Abomination",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2013 Rat Mutant",
+            "type": "Creature \u2014 Rat Mutant",
             "number": 66,
             "color_identity": "B",
             "cost": "{4}{B}",
@@ -370,19 +346,17 @@
             "artist": "Cubicle 7",
             "alias": "",
             "position": "16",
-            "notes": "Skaven",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven"
         },
         {
             "card_name": "Verminlord Warpseer",
             "color": "UBR",
             "rarity": "rare",
-            "type": "Creature \u2013 Rat Demon Wizard",
+            "type": "Creature \u2014 Rat Demon Wizard",
             "number": 173,
             "color_identity": "UBR",
             "cost": "{2}{U}{B}{R}",
-            "rules_text": "Ward\u2013Discard a nonland card.\nWhenever this creature attacks, each creature you control connives.\n[i]Ruination [/i]\u2013 Whenever this creature connives, if there are cards with total mana value 13 or greater among cards in your graveyard, this creature deals damage to any target equal to the greatest mana value among cards connived this way.",
+            "rules_text": "Ward\u2014Discard a nonland card.\nWhenever this creature attacks, each creature you control connives.\n[i]Ruination [/i]\u2014 Whenever this creature connives, if there are cards with total mana value 13 or greater among cards in your graveyard, this creature deals damage to any target equal to the greatest mana value among cards connived this way.",
             "flavor_text": "[i][/i]",
             "pt": "3/7",
             "special_text": "",
@@ -392,9 +366,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "17",
-            "notes": "Skaven\nGrixis Rares",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven\nGrixis Rares"
         },
         {
             "card_name": "MORE-MORE DOOM!!!",
@@ -414,15 +386,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "18",
-            "notes": "Skaven\nGrixis Rares",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven\nGrixis Rares"
         },
         {
             "card_name": "Head-on Collision",
             "color": "R",
             "rarity": "rare",
-            "type": "Battle \u2013 Control Point",
+            "type": "Battle \u2014 Control Point",
             "number": 89,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -436,15 +406,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "19",
-            "notes": "Battles",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Battles"
         },
         {
             "card_name": "The Mighty and the Cunning",
             "color": "UBR",
             "rarity": "rare",
-            "type": "Battle \u2013 Control Point",
+            "type": "Battle \u2014 Control Point",
             "number": 150,
             "color_identity": "UBR",
             "cost": "{U}{B}{R}",
@@ -458,19 +426,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "20",
-            "notes": "Skaven\nThree-Color Battles",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven\nThree-Color Battles"
         },
         {
             "card_name": "Ogor Glutton",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Ogre Mercenary",
+            "type": "Creature \u2014 Ogre Mercenary",
             "number": 73,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Squad {3}{B}\nMenace\nEngorge \u2013 {3}{B}: This creature gets +2/+2 until end of turn. Activate only during your turn and only once each turn. [i](You may activate this ability by sacrificing a permanent and paying the difference in mana costs between this and the sacrificed permanent. Mana cost includes color.)[/i]",
+            "rules_text": "Squad {3}{B}\nMenace\nEngorge \u2014 {3}{B}: This creature gets +2/+2 until end of turn. Activate only during your turn and only once each turn. [i](You may activate this ability by sacrificing a permanent and paying the difference in mana costs between this and the sacrificed permanent. Mana cost includes color.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -480,9 +446,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "21",
-            "notes": "Ogor Mawtribes",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes"
         },
         {
             "card_name": "Cracks Call",
@@ -492,7 +456,7 @@
             "number": 84,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "[i]Ruination[/i] \u2013 This spell costs {2} less to cast if the total mana value among cards in your graveyard is greater than or equal to 13.\nCracks Call deals 4 damage to target creature or battle.",
+            "rules_text": "[i]Ruination[/i] \u2014 This spell costs {2} less to cast if the total mana value among cards in your graveyard is greater than or equal to 13.\nCracks Call deals 4 damage to target creature or battle.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -502,19 +466,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "22",
-            "notes": "Skaven",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven"
         },
         {
             "card_name": "Mortek Guard",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Skeleton Soldier",
+            "type": "Creature \u2014 Skeleton Soldier",
             "number": 17,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Squad {2}{W}\nWhen this creature enters choose one \u2013\n\u2022 Put a +1/+1 counter on target creature you control.\n\u2022 Create a 1/1 white Skeleton Soldier creature token.",
+            "rules_text": "Squad {2}{W}\nWhen this creature enters choose one \u2014\n\u2022 Put a +1/+1 counter on target creature you control.\n\u2022 Create a 1/1 white Skeleton Soldier creature token.",
             "flavor_text": "[i]The Mortek Guard form the heartless backbone of the Ossiarch Legions. [/i]",
             "pt": "1/1",
             "special_text": "",
@@ -524,19 +486,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "23",
-            "notes": "Ossiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers"
         },
         {
             "card_name": "Gothizzar Harvester",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Skeleton Horror",
+            "type": "Creature \u2014 Skeleton Horror",
             "number": 63,
             "color_identity": "B",
             "cost": "{4}{B}",
-            "rules_text": "Menace\n[i]Gruesome Surgery \u2013 [/i]At the beginning of each end step if a creature died this turn, create a 1/1 white Skeleton Soldier creature token.\nReconstruct [i](You may cast this card from your graveyard by sacrificing a permanent in addition to paying its other costs. If you do, it enters with a finality counter on it.)[/i]",
+            "rules_text": "Menace\n[i]Gruesome Surgery \u2014 [/i]At the beginning of each end step if a creature died this turn, create a 1/1 white Skeleton Soldier creature token.\nReconstruct [i](You may cast this card from your graveyard by sacrificing a permanent in addition to paying its other costs. If you do, it enters with a finality counter on it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/5",
             "special_text": "",
@@ -546,15 +506,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "24",
-            "notes": "Ossiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers"
         },
         {
             "card_name": "Freeguild Steelhelm",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 12,
             "color_identity": "W",
             "cost": "{W}",
@@ -568,15 +526,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "25",
-            "notes": "Cities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar"
         },
         {
             "card_name": "Freeguild Fusilier",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 86,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -590,15 +546,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "26",
-            "notes": "Cities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar"
         },
         {
             "card_name": "Freeguild Cavalier",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Knight",
+            "type": "Creature \u2014 Human Knight",
             "number": 110,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -612,9 +566,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "27",
-            "notes": "Cities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar"
         },
         {
             "card_name": "Zeal of Aqshy",
@@ -624,7 +576,7 @@
             "number": 101,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Choose one \u2013\n\u2022 Target creature you control gets +2/+2 until end of turn.\n\u2022 Zeal of Aqshy deals 2 damage to any target.",
+            "rules_text": "Choose one \u2014\n\u2022 Target creature you control gets +2/+2 until end of turn.\n\u2022 Zeal of Aqshy deals 2 damage to any target.",
             "flavor_text": "[i]Many mages of Aqshy learn the fine line between mastery of their fiery power, and that power's mastery over them.[/i]",
             "pt": "",
             "special_text": "",
@@ -634,19 +586,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "28",
-            "notes": "Cities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar"
         },
         {
             "card_name": "Fusil Major",
             "color": "WRG",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 136,
             "color_identity": "WRG",
             "cost": "{2}{R}{G}{W}",
-            "rules_text": "Reach\nWhen this creature enters, create a 3/4 red and green Ogre Soldier creature token named Ogor Warhulk with trample and \u201cCreatures you control named Fusil Major have Ward {1}.\u201d\n[i]Mark Targets[/i] \u2013 Regiment {2}{R}{G}{W}, {T}: Choose target creature you don't control. Each creature you control deals 1 damage to that creature.",
+            "rules_text": "Reach\nWhen this creature enters, create a 3/4 red and green Ogre Soldier creature token named Ogor Warhulk with trample and \u201cCreatures you control named Fusil Major have Ward {1}.\u201d\n[i]Mark Targets[/i] \u2014 Regiment {2}{R}{G}{W}, {T}: Choose target creature you don't control. Each creature you control deals 1 damage to that creature.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -656,15 +606,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "29",
-            "notes": "Cities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar"
         },
         {
             "card_name": "Freeguild Marshal",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 11,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -678,9 +626,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "30",
-            "notes": "Cities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar"
         },
         {
             "card_name": "Freeguild Garrison",
@@ -700,9 +646,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "31",
-            "notes": "Cards I Want to Rework\nCities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cards I Want to Rework\nCities of Sigmar"
         },
         {
             "card_name": "Freeguild Storehouse",
@@ -722,15 +666,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "32",
-            "notes": "Cities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar"
         },
         {
             "card_name": "Bright Battlemage",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Wizard",
+            "type": "Creature \u2014 Human Wizard",
             "number": 82,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -744,9 +686,7 @@
             "artist": "Cubicle 7",
             "alias": "",
             "position": "33",
-            "notes": "Cities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar"
         },
         {
             "card_name": "Castelite Formation",
@@ -766,15 +706,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "34",
-            "notes": "Cities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar"
         },
         {
             "card_name": "Freeguild Cavalier-Marshal",
             "color": "WG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Knight",
+            "type": "Creature \u2014 Human Knight",
             "number": 134,
             "color_identity": "WG",
             "cost": "{2}{G}{W}",
@@ -788,15 +726,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "35",
-            "notes": "Cities of Sigmar\nSylesnea Uncommons",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar\nSylesnea Uncommons"
         },
         {
             "card_name": "Tetratic Cohort",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Skeleton Horror",
+            "type": "Creature \u2014 Skeleton Horror",
             "number": 46,
             "color_identity": "U",
             "cost": "{4}{U}",
@@ -810,19 +746,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "36",
-            "notes": "Ossiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers"
         },
         {
             "card_name": "Necropolis Stalker",
             "color": "WUB",
             "rarity": "rare",
-            "type": "Creature \u2013 Skeleton Soldier",
+            "type": "Creature \u2014 Skeleton Soldier",
             "number": 153,
             "color_identity": "WUB",
             "cost": "{1}{W}{U}{B}",
-            "rules_text": "Squad\u2013Discard cards with total mana value 4 or greater\nFirst strike, vigilance\nReconstruct",
+            "rules_text": "Squad\u2014Discard cards with total mana value 4 or greater\nFirst strike, vigilance\nReconstruct",
             "flavor_text": "[i]Four faces. Four masters. Four forms. Four hundred deaths. [/i]",
             "pt": "4/4",
             "special_text": "",
@@ -832,19 +766,17 @@
             "artist": "Cubicle 7",
             "alias": "",
             "position": "37",
-            "notes": "Ossiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers"
         },
         {
             "card_name": "Immortis Guard",
             "color": "WUB",
             "rarity": "mythic",
-            "type": "Creature \u2013 Skeleton Soldier",
+            "type": "Creature \u2014 Skeleton Soldier",
             "number": 143,
             "color_identity": "WUB",
             "cost": "{2}{W}{U}{B}",
-            "rules_text": "Squad\u2013{W}{U}{B}\nThis creature enters a double strike counter on it.\nSacrifice this creature: Target creature you control gains indestructible until end of turn. Put all counters on this creature onto that creature.\nReconstruct",
+            "rules_text": "Squad\u2014{W}{U}{B}\nThis creature enters a double strike counter on it.\nSacrifice this creature: Target creature you control gains indestructible until end of turn. Put all counters on this creature onto that creature.\nReconstruct",
             "flavor_text": "[i][/i]",
             "pt": "3/5",
             "special_text": "",
@@ -854,9 +786,7 @@
             "artist": "Cubicle 7",
             "alias": "",
             "position": "38",
-            "notes": "Ossiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers"
         },
         {
             "card_name": "Reform Ranks",
@@ -866,7 +796,7 @@
             "number": 42,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Choose one \u2013\n\u2022 Exile up to two target creatures and/or artifacts you control. Return them to the battlefield under their owner's control at the beginning of the next end step.\n\u2022 Choose two target creatures controlled by different players. Return those creatures to their owners' hands.",
+            "rules_text": "Choose one \u2014\n\u2022 Exile up to two target creatures and/or artifacts you control. Return them to the battlefield under their owner's control at the beginning of the next end step.\n\u2022 Choose two target creatures controlled by different players. Return those creatures to their owners' hands.",
             "flavor_text": "[i]\u201cNecropolis Stalkers! Destroyer formation!\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -876,9 +806,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "39",
-            "notes": "Ossiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers"
         },
         {
             "card_name": "Relentless Discipline",
@@ -898,15 +826,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "40",
-            "notes": "Ossiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers"
         },
         {
             "card_name": "Arkhan, Mortarch of Sacriment",
             "color": "WUB",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Skeleton Wizard Noble",
+            "type": "Legendary Creature \u2014 Skeleton Wizard Noble",
             "number": 125,
             "color_identity": "WUB",
             "cost": "{1}{W}{U}{B}",
@@ -920,15 +846,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "41",
-            "notes": "Ossiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers"
         },
         {
             "card_name": "Khenash-an, Staff of Spirits",
             "color": "WUB",
             "rarity": "rare",
-            "type": "Legendary Artifact \u2013 Equipment",
+            "type": "Legendary Artifact \u2014 Equipment",
             "number": 145,
             "color_identity": "WUB",
             "cost": "{W}{U}{B}",
@@ -942,15 +866,13 @@
             "artist": "Eavy' Metal Team",
             "alias": "",
             "position": "42",
-            "notes": "Ossiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers"
         },
         {
             "card_name": "Helm of Tyranny",
             "color": "U",
             "rarity": "common",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 37,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -964,19 +886,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "43",
-            "notes": "Ossiarch Bonereapers\nBattles Matter Equipment Cycle",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers\nBattles Matter Equipment Cycle"
         },
         {
             "card_name": "Kavalos Deathrider",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Skeleton Knight",
+            "type": "Creature \u2014 Skeleton Knight",
             "number": 67,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "Squad {1}{B}\n[i]Deathrider Wedge \u2013[/i] During your turn, this creature has first strike.\nReconstruct [i](You may cast this card from your graveyard by sacrificing a permanent in addition to paying its other costs. If you do, it enters with a finality counter on it.)[/i]",
+            "rules_text": "Squad {1}{B}\n[i]Deathrider Wedge \u2014[/i] During your turn, this creature has first strike.\nReconstruct [i](You may cast this card from your graveyard by sacrificing a permanent in addition to paying its other costs. If you do, it enters with a finality counter on it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -986,19 +906,17 @@
             "artist": "Cubicle 7",
             "alias": "",
             "position": "44",
-            "notes": "Ossiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers"
         },
         {
             "card_name": "Liege Kavalos",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2013 Skeleton Knight Noble",
+            "type": "Creature \u2014 Skeleton Knight Noble",
             "number": 68,
             "color_identity": "B",
             "cost": "{4}{B}",
-            "rules_text": "Menace\n[i]Master of Cavalry \u2013 [/i]Whenever you sacrifice one or more permanents with mana value 1 or greater, create a 2/2 black Skeleton Knight creature token.\nWhenever this creature attacks, surveil 2.",
+            "rules_text": "Menace\n[i]Master of Cavalry \u2014 [/i]Whenever you sacrifice one or more permanents with mana value 1 or greater, create a 2/2 black Skeleton Knight creature token.\nWhenever this creature attacks, surveil 2.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -1008,9 +926,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "45",
-            "notes": "Ossiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers"
         },
         {
             "card_name": "Marrowpact",
@@ -1030,15 +946,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "46",
-            "notes": "Ossiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers"
         },
         {
             "card_name": "Mortisan Boneshaper",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Skeleton Wizard",
+            "type": "Creature \u2014 Skeleton Wizard",
             "number": 18,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -1052,15 +966,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "47",
-            "notes": "Ossiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers"
         },
         {
             "card_name": "Mortisan Soulreaper",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Skeleton Wizard",
+            "type": "Creature \u2014 Skeleton Wizard",
             "number": 72,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -1074,15 +986,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "48",
-            "notes": "Ossiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers"
         },
         {
             "card_name": "Mortisan Ossifector",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Skeleton Wizard",
+            "type": "Creature \u2014 Skeleton Wizard",
             "number": 41,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -1096,9 +1006,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "49",
-            "notes": "Ossiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers"
         },
         {
             "card_name": "Counter Strike",
@@ -1118,19 +1026,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "50",
-            "notes": "Ossiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers"
         },
         {
             "card_name": "Katakros, Mortarch of the Necropolis",
             "color": "WUB",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Skeleton Noble Soldier",
+            "type": "Legendary Creature \u2014 Skeleton Noble Soldier",
             "number": 144,
             "color_identity": "WUB",
             "cost": "{2}{W}{U}{B}",
-            "rules_text": "First strike, vigilance\n[i]Supreme Commander of the Bonereaper Legions[/i] \u2013 Whenever Katakros attacks, you may sacrifice a creature or artifact you control, if you do, return up to two artifact and/or creature cards from your graveyard to the battlefield with total mana value X or less, where X is 1 plus the sacrificed permanent's mana value.",
+            "rules_text": "First strike, vigilance\n[i]Supreme Commander of the Bonereaper Legions[/i] \u2014 Whenever Katakros attacks, you may sacrifice a creature or artifact you control, if you do, return up to two artifact and/or creature cards from your graveyard to the battlefield with total mana value X or less, where X is 1 plus the sacrificed permanent's mana value.",
             "flavor_text": "[i][/i]",
             "pt": "5/6",
             "special_text": "",
@@ -1140,9 +1046,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "51",
-            "notes": "Ossiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers"
         },
         {
             "card_name": "Mortisan Council",
@@ -1162,9 +1066,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "52",
-            "notes": "Ossiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers"
         },
         {
             "card_name": "Mortek Crawler",
@@ -1184,19 +1086,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "53",
-            "notes": "Ossiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers"
         },
         {
             "card_name": "Mortisan Soulmason",
             "color": "WUB",
             "rarity": "rare",
-            "type": "Creature \u2013 Skeleton Wizard Noble",
+            "type": "Creature \u2014 Skeleton Wizard Noble",
             "number": 152,
             "color_identity": "WUB",
             "cost": "{W}{U}{B}",
-            "rules_text": "[i]Soul Guide[/i] \u2013 Discard a nonland card: Exile another target creature or artifact you control, then return that card to the battlefield under its owner's control. Activate only during your turn and only once each turn.",
+            "rules_text": "[i]Soul Guide[/i] \u2014 Discard a nonland card: Exile another target creature or artifact you control, then return that card to the battlefield under its owner's control. Activate only during your turn and only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
@@ -1206,9 +1106,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "54",
-            "notes": "Ossiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers"
         },
         {
             "card_name": "Kavalos Lance",
@@ -1218,7 +1116,7 @@
             "number": 14,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Choose one \u2013\n\u2022 Kavalos Lance deals damage equal to the number of creatures you control to target creature or battle.\n\u2022 Create a 2/2 black Skeleton Knight creature token.",
+            "rules_text": "Choose one \u2014\n\u2022 Kavalos Lance deals damage equal to the number of creatures you control to target creature or battle.\n\u2022 Create a 2/2 black Skeleton Knight creature token.",
             "flavor_text": "[i]\u201cDeathriders! Spearhead formation!\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -1228,15 +1126,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "55",
-            "notes": "Ossiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers"
         },
         {
             "card_name": "Vanari Auralan Warden",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Soldier",
+            "type": "Creature \u2014 Elf Soldier",
             "number": 28,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -1250,19 +1146,17 @@
             "artist": "Cubicle 7",
             "alias": "",
             "position": "56",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Vanari Auralan Sentinel",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Archer",
+            "type": "Creature \u2014 Elf Archer",
             "number": 120,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Squad {2}{G} [i](As an additional cost to cast this spell, you may pay {2}{G} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]\nReach\n[i]Scryhawk Lantern \u2013[/i] Whenever this creature becomes tapped, scry 2.",
+            "rules_text": "Squad {2}{G} [i](As an additional cost to cast this spell, you may pay {2}{G} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]\nReach\n[i]Scryhawk Lantern \u2014[/i] Whenever this creature becomes tapped, scry 2.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1272,19 +1166,17 @@
             "artist": "Denis Sarbashev",
             "alias": "",
             "position": "57",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Vanari Dawnrider",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Knight",
+            "type": "Creature \u2014 Elf Knight",
             "number": 52,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "Squad {3}{U} [i](As an additional cost to cast this spell, you may pay {3}{U} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]\nVigilance\n[i]Deathly Furrows[/i] \u2013 When this creature enters, return target creature with mana value 2 or less to its owner's hand.",
+            "rules_text": "Squad {3}{U} [i](As an additional cost to cast this spell, you may pay {3}{U} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]\nVigilance\n[i]Deathly Furrows[/i] \u2014 When this creature enters, return target creature with mana value 2 or less to its owner's hand.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -1294,19 +1186,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "58",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Scinari Cathallar",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Wizard",
+            "type": "Creature \u2014 Elf Wizard",
             "number": 21,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "[i]Absorb Despair[/i] \u2013 Whenever you cast a spell that has convoke, untap up to one of the creatures that convoked it.",
+            "rules_text": "[i]Absorb Despair[/i] \u2014 Whenever you cast a spell that has convoke, untap up to one of the creatures that convoked it.",
             "flavor_text": "[i]\u201cHow is it that she can bear the weight of all our sadness, our fear, our pain? Truly, she is stronger than any of us.\u201d [/i]",
             "pt": "0/5",
             "special_text": "",
@@ -1316,19 +1206,17 @@
             "artist": "Cubicle 7",
             "alias": "",
             "position": "59",
-            "notes": "Cards I Want to Rework\nLumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cards I Want to Rework\nLumineth Realm-Lords"
         },
         {
             "card_name": "Scinari Enlightener",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Wizard",
+            "type": "Creature \u2014 Elf Wizard",
             "number": 44,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "[i]Rune of Enthlai[/i] \u2013 When this creature enters, copy the next spell you cast with convoke this turn when you cast it.",
+            "rules_text": "[i]Rune of Enthlai[/i] \u2014 When this creature enters, copy the next spell you cast with convoke this turn when you cast it.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1338,15 +1226,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "60",
-            "notes": "Cards I Want to Rework\nLumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cards I Want to Rework\nLumineth Realm-Lords"
         },
         {
             "card_name": "Alarith Stonemage",
             "color": "WG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Wizard",
+            "type": "Creature \u2014 Elf Wizard",
             "number": 123,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
@@ -1360,19 +1246,17 @@
             "artist": "Cubicle 7",
             "alias": "",
             "position": "61",
-            "notes": "Lumineth Realm-Lords\nSylesnea Uncommons",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords\nSylesnea Uncommons"
         },
         {
             "card_name": "Sevireth, Wind Lord",
             "color": "W",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Elder Elemental Spirit",
+            "type": "Legendary Creature \u2014 Elder Elemental Spirit",
             "number": 22,
             "color_identity": "W",
             "cost": "{6}{W}{W}",
-            "rules_text": "Convoke\nFlying, lifelink\n[i]Searing Desert Winds \u2013 [/i]At the beginning of combat on your turn, untap each creature you control. Sevireth deals X damage to target creature or battle, where X is the number of creatures untapped this way.",
+            "rules_text": "Convoke\nFlying, lifelink\n[i]Searing Desert Winds \u2014 [/i]At the beginning of combat on your turn, untap each creature you control. Sevireth deals X damage to target creature or battle, where X is the number of creatures untapped this way.",
             "flavor_text": "[i][/i]",
             "pt": "5/4",
             "special_text": "",
@@ -1382,19 +1266,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "62",
-            "notes": "Chopping Block Cards(?)\nLumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Chopping Block Cards(?)\nLumineth Realm-Lords"
         },
         {
             "card_name": "Avalenor, Ancient Aelementor",
             "color": "G",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Elder Elemental Spirit",
+            "type": "Legendary Creature \u2014 Elder Elemental Spirit",
             "number": 106,
             "color_identity": "G",
             "cost": "{7}{G}{G}",
-            "rules_text": "Convoke\nVigilance, trample, reach\n[i]Unbreakable Bulwark \u2013 [/i]When this creature enters, put a shield counter on each creature that convoked it.",
+            "rules_text": "Convoke\nVigilance, trample, reach\n[i]Unbreakable Bulwark \u2014 [/i]When this creature enters, put a shield counter on each creature that convoked it.",
             "flavor_text": "[i][/i]",
             "pt": "7/7",
             "special_text": "",
@@ -1404,9 +1286,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "63",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Call the Warhost",
@@ -1426,9 +1306,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "64",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Charge of the Lumineth",
@@ -1448,9 +1326,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "65",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Darkness of the Soul",
@@ -1470,9 +1346,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "66",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Beam of Hysh",
@@ -1492,15 +1366,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "67",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Vanari Bladelord",
             "color": "WUG",
             "rarity": "mythic",
-            "type": "Creature \u2013 Elf Samurai",
+            "type": "Creature \u2014 Elf Samurai",
             "number": 171,
             "color_identity": "WUG",
             "cost": "{2}{G}{W}{U}",
@@ -1514,19 +1386,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "68",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Vanari Starshard Ballista",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Kindred Artifact \u2013 Elf Vehicle",
+            "type": "Kindred Artifact \u2014 Elf Vehicle",
             "number": 29,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "Vigilance, reach\n[i]Blinding Bolts[/i] \u2013 Whenever this Vehicle becomes tapped, if it's an artifact creature, tap target creature an opponent controls and put two stun counters on it.\nCrew 2",
+            "rules_text": "Vigilance, reach\n[i]Blinding Bolts[/i] \u2014 Whenever this Vehicle becomes tapped, if it's an artifact creature, tap target creature an opponent controls and put two stun counters on it.\nCrew 2",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -1536,15 +1406,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "69",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Teclis and Celennar, Enlighened",
             "color": "WUG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Elf God Elemental",
+            "type": "Legendary Creature \u2014 Elf God Elemental",
             "number": 168,
             "color_identity": "WUG",
             "cost": "{2}{G}{W}{U}",
@@ -1558,15 +1426,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "70",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Ellania and Ellathor, Warsages",
             "color": "WUG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Elf Wizard Warrior",
+            "type": "Legendary Creature \u2014 Elf Wizard Warrior",
             "number": 133,
             "color_identity": "WUG",
             "cost": "{G}{W}{U}",
@@ -1580,9 +1446,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "71",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Move Like the Wind",
@@ -1602,9 +1466,7 @@
             "artist": "Eavy' Metal Team",
             "alias": "",
             "position": "72",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Alarith Fortitude",
@@ -1624,15 +1486,13 @@
             "artist": "Regina S.",
             "alias": "",
             "position": "73",
-            "notes": "Chopping Block Cards\nLumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Chopping Block Cards\nLumineth Realm-Lords"
         },
         {
             "card_name": "Realmscribe's Mark",
             "color": "G",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 117,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -1646,15 +1506,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "74",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Mountain Stance",
             "color": "G",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 115,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -1668,9 +1526,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "75",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Scinari Brilliance",
@@ -1690,15 +1546,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "76",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Vandusian Guard",
             "color": "WRG",
             "rarity": "mythic",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 172,
             "color_identity": "WRG",
             "cost": "{1}{R}{G}{W}",
@@ -1712,19 +1566,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "77",
-            "notes": "Cities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar"
         },
         {
             "card_name": "Tahlia Vedra, First Marshal",
             "color": "WRG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Soldier",
+            "type": "Legendary Creature \u2014 Human Soldier",
             "number": 167,
             "color_identity": "WRG",
             "cost": "{2}{R}{G}{W}",
-            "rules_text": "Flying, trample, haste\n[i]Lead from the Front[/i] \u2013 Regiment {3}{R}{G}{W}: If it's your main phase, there is an additional combat phase after this phase followed by an additional main phase. When you next attack this turn, untap each creature you control. Activate only once each turn and only if Tahlia Vedra attacked this turn.",
+            "rules_text": "Flying, trample, haste\n[i]Lead from the Front[/i] \u2014 Regiment {3}{R}{G}{W}: If it's your main phase, there is an additional combat phase after this phase followed by an additional main phase. When you next attack this turn, untap each creature you control. Activate only once each turn and only if Tahlia Vedra attacked this turn.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -1734,19 +1586,17 @@
             "artist": "Anna Lakisova",
             "alias": "",
             "position": "78",
-            "notes": "Cities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar"
         },
         {
             "card_name": "Pontifex Zenestra",
             "color": "WRG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Elder Human Cleric",
+            "type": "Legendary Creature \u2014 Elder Human Cleric",
             "number": 161,
             "color_identity": "WRG",
             "cost": "{1}{R}{G}{W}",
-            "rules_text": "Ward\u2013Tap four untapped permanents you control\n[i]Vessel of the God-King \u2013[/i] Whenever you activate an ability of a creature you control that isn't a mana ability, you may pay {1}, if you do, copy that ability. You may choose new targets for the copy.",
+            "rules_text": "Ward\u2014Tap four untapped permanents you control\n[i]Vessel of the God-King \u2014[/i] Whenever you activate an ability of a creature you control that isn't a mana ability, you may pay {1}, if you do, copy that ability. You may choose new targets for the copy.",
             "flavor_text": "[i][/i]",
             "pt": "0/5",
             "special_text": "",
@@ -1756,9 +1606,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "79",
-            "notes": "Cities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar"
         },
         {
             "card_name": "Hold Fast",
@@ -1778,9 +1626,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "80",
-            "notes": "Cities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar"
         },
         {
             "card_name": "Stand Sentinel",
@@ -1800,31 +1646,27 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "81",
-            "notes": "Cities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar"
         },
         {
             "card_name": "Dawnbringer Crusade",
             "color": "WRG",
             "rarity": "rare",
-            "type": "Enchantment \u2013 Saga",
+            "type": "Enchantment \u2014 Saga",
             "number": 132,
             "color_identity": "WRG",
             "cost": "{2}{R}{G}{W}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Create three 1/1 red Human Soldier creature tokens.\nII \u2013 Creatures you control have \u201c{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]\nIII \u2013 Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create three 1/1 red Human Soldier creature tokens.\nII \u2014 Creatures you control have \u201c{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]\nIII \u2014 Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Create three 1/1 red Human Soldier creature tokens.\nII \u2013 Creatures you control have \u201c{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]\nIII \u2013 Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create three 1/1 red Human Soldier creature tokens.\nII \u2014 Creatures you control have \u201c{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]\nIII \u2014 Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.",
             "shape": "saga",
             "set": "AoS",
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
             "position": "82",
-            "notes": "Cities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar"
         },
         {
             "card_name": "Wildercorps Ambuscade",
@@ -1834,7 +1676,7 @@
             "number": 122,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Choose one \u2013\n\u2022 Target creature gets +3/+3 and reach until end of turn.\n\u2022 Crate a 2/2 red and green Human Scout creature token.",
+            "rules_text": "Choose one \u2014\n\u2022 Target creature gets +3/+3 and reach until end of turn.\n\u2022 Crate a 2/2 red and green Human Scout creature token.",
             "flavor_text": "[i]The Ogors thought they could devour their homes with impunity. The Wildercorps proved them wrong.[/i]",
             "pt": "",
             "special_text": "",
@@ -1844,15 +1686,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "83",
-            "notes": "Cities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar"
         },
         {
             "card_name": "Amber Battlemage",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Wizard",
+            "type": "Creature \u2014 Human Wizard",
             "number": 105,
             "color_identity": "G",
             "cost": "{5}{G}",
@@ -1866,15 +1706,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "84",
-            "notes": "Cities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar"
         },
         {
             "card_name": "Celestial Battlemage",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Wizard",
+            "type": "Creature \u2014 Human Wizard",
             "number": 8,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -1888,9 +1726,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "85",
-            "notes": "Cities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar"
         },
         {
             "card_name": "Bone-Tithe Nexus",
@@ -1910,19 +1746,17 @@
             "artist": "Eavy' Metal Team",
             "alias": "",
             "position": "86",
-            "notes": "Faction Terrain Cycle\nOssiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Faction Terrain Cycle\nOssiarch Bonereapers"
         },
         {
             "card_name": "Morghast Archai",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2013 Skeleton Horror",
+            "type": "Creature \u2014 Skeleton Horror",
             "number": 38,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
-            "rules_text": "Flash\nFlying\nWhen this creature enters, choose one \u2013\n\u2022 Counter target spell\n\u2022 Draw three cards, then discard a card.\nReconstruct [i](You may cast this card from your graveyard by sacrificing a permanent in addition to paying its other costs. If you do, it enters with a finality counter on it.)[/i]",
+            "rules_text": "Flash\nFlying\nWhen this creature enters, choose one \u2014\n\u2022 Counter target spell\n\u2022 Draw three cards, then discard a card.\nReconstruct [i](You may cast this card from your graveyard by sacrificing a permanent in addition to paying its other costs. If you do, it enters with a finality counter on it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -1932,15 +1766,13 @@
             "artist": "Cubicle 7",
             "alias": "",
             "position": "87",
-            "notes": "Ossiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers"
         },
         {
             "card_name": "Morghast Harbinger",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2013 Skeleton Horror",
+            "type": "Creature \u2014 Skeleton Horror",
             "number": 70,
             "color_identity": "B",
             "cost": "{4}{B}{B}",
@@ -1954,15 +1786,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "88",
-            "notes": "Ossiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers"
         },
         {
             "card_name": "Alarith Mountain Spirit",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elemental Spirit",
+            "type": "Creature \u2014 Elemental Spirit",
             "number": 103,
             "color_identity": "G",
             "cost": "{5}{G}{G}",
@@ -1976,19 +1806,17 @@
             "artist": "Eavy' Metal Team",
             "alias": "",
             "position": "89",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Hurakan Wind Spirit",
             "color": "WU",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elemental Spirit",
+            "type": "Creature \u2014 Elemental Spirit",
             "number": 140,
             "color_identity": "WU",
             "cost": "{5}{W}{U}",
-            "rules_text": "Convoke\nFlash\nFlying\n[i]Living Cyclone \u2013 [/i]When this creature enters, return up to one target creature or spell to its owner's hand.",
+            "rules_text": "Convoke\nFlash\nFlying\n[i]Living Cyclone \u2014 [/i]When this creature enters, return up to one target creature or spell to its owner's hand.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -1998,15 +1826,13 @@
             "artist": "Eavy' Metal Team",
             "alias": "",
             "position": "90",
-            "notes": "Azorius Uncommons\nLumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Azorius Uncommons\nLumineth Realm-Lords"
         },
         {
             "card_name": "Hurakan Windcharger",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Knight Archer",
+            "type": "Creature \u2014 Elf Knight Archer",
             "number": 13,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -2020,9 +1846,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "91",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Travel the Waterways",
@@ -2042,15 +1866,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "92",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Ydrilan Riverblade",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Warrior",
+            "type": "Creature \u2014 Elf Warrior",
             "number": 55,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -2064,15 +1886,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "93",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Alarith Stoneguard",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Warrior",
+            "type": "Creature \u2014 Elf Warrior",
             "number": 104,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -2086,9 +1906,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "94",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Enduring as Rock",
@@ -2108,15 +1926,13 @@
             "artist": "Cubicle 7",
             "alias": "",
             "position": "95",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Sunmetal Weapons",
             "color": "W",
             "rarity": "common",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 26,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -2130,41 +1946,37 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "96",
-            "notes": "Battles Matter Equipment\nLumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Battles Matter Equipment\nLumineth Realm-Lords"
         },
         {
             "card_name": "Ocari Dara, Spirefall",
             "color": "WUG",
             "rarity": "rare",
-            "type": "Legendary Enchantment \u2013 Saga",
+            "type": "Legendary Enchantment \u2014 Saga",
             "number": 155,
             "color_identity": "WUG",
             "cost": "{2}{G}{W}{U}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Draw two cards.\nII \u2013 Each player chooses two creatures they control. Destroy all other non-Saga, nonland permanents.\nIII \u2013 Permanent spells you cast this turn have convoke.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Draw two cards.\nII \u2014 Each player chooses two creatures they control. Destroy all other non-Saga, nonland permanents.\nIII \u2014 Permanent spells you cast this turn have convoke.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Draw two cards.\nII \u2013 Each player chooses two creatures they control. Destroy all other non-Saga, nonland permanents.\nIII \u2013 Permanent spells you cast this turn have convoke.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Draw two cards.\nII \u2014 Each player chooses two creatures they control. Destroy all other non-Saga, nonland permanents.\nIII \u2014 Permanent spells you cast this turn have convoke.",
             "shape": "saga",
             "set": "AoS",
             "loyalty": "",
             "artist": "Games Workshop",
             "alias": "",
             "position": "97",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Scinari Loreseeker",
             "color": "WUG",
             "rarity": "rare",
-            "type": "Creature \u2013 Elf Wizard Warrior",
+            "type": "Creature \u2014 Elf Wizard Warrior",
             "number": 163,
             "color_identity": "WUG",
             "cost": "{G}{W}{U}",
-            "rules_text": "Vigilance\n[i]Lone Agent \u2013 [/i]At the start of combat on your turn, this creature gets +X/+X and gains first strike until end of turn, where X is the number of tapped creatures you control.",
+            "rules_text": "Vigilance\n[i]Lone Agent \u2014 [/i]At the start of combat on your turn, this creature gets +X/+X and gains first strike until end of turn, where X is the number of tapped creatures you control.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2174,19 +1986,17 @@
             "artist": "Cubicle 7",
             "alias": "",
             "position": "98",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Vanari Bannerblade",
             "color": "WUG",
             "rarity": "rare",
-            "type": "Creature \u2013 Elf Warrior",
+            "type": "Creature \u2014 Elf Warrior",
             "number": 170,
             "color_identity": "WUG",
             "cost": "{G}{W}{U}",
-            "rules_text": "Vigilance\nWhen this creature enters, create a 1/1 white Elf Soldier creature token.\n[i]Raise the World Banner \u2013 [/i]Untap all creatures you control during each other player's untap step.",
+            "rules_text": "Vigilance\nWhen this creature enters, create a 1/1 white Elf Soldier creature token.\n[i]Raise the World Banner \u2014 [/i]Untap all creatures you control during each other player's untap step.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -2196,9 +2006,7 @@
             "artist": "Eavy' Metal Team",
             "alias": "",
             "position": "99",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Light of the True Moon",
@@ -2218,19 +2026,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "100",
-            "notes": "Lumineth Realm-Lords\nAzorius Uncommons",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords\nAzorius Uncommons"
         },
         {
             "card_name": "Hurakan Windmage",
             "color": "WU",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Wizard",
+            "type": "Creature \u2014 Elf Wizard",
             "number": 141,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
-            "rules_text": "Flying\n[i]Transporting Vortex [/i]\u2013 Whenever this creature becomes tapped, exile up to one target nonland permanent you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.",
+            "rules_text": "Flying\n[i]Transporting Vortex [/i]\u2014 Whenever this creature becomes tapped, exile up to one target nonland permanent you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -2240,9 +2046,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "101",
-            "notes": "Lumineth Realm-Lords\nAzorius Uncommons",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords\nAzorius Uncommons"
         },
         {
             "card_name": "Unseen Force",
@@ -2262,15 +2066,13 @@
             "artist": "Eavy' Metal Team",
             "alias": "",
             "position": "102",
-            "notes": "Chopping Block Cards(?)\nLumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Chopping Block Cards(?)\nLumineth Realm-Lords"
         },
         {
             "card_name": "Realmgate",
             "color": "",
             "rarity": "rare",
-            "type": "Land \u2013 Gate",
+            "type": "Land \u2014 Gate",
             "number": 200,
             "color_identity": "C",
             "cost": "",
@@ -2284,9 +2086,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "103",
-            "notes": "Agnostic Card(s)\nFixing Land",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Agnostic Card(s)\nFixing Land"
         },
         {
             "card_name": "Savage Lands",
@@ -2306,9 +2106,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "104",
-            "notes": "Fixing Land\nOgor Mawtribes",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Fixing Land\nOgor Mawtribes"
         },
         {
             "card_name": "Crumbling Necropolis",
@@ -2328,9 +2126,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "105",
-            "notes": "Fixing Land\nSkaven",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Fixing Land\nSkaven"
         },
         {
             "card_name": "Jungle Shrine",
@@ -2350,9 +2146,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "106",
-            "notes": "Fixing Land\nCities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Fixing Land\nCities of Sigmar"
         },
         {
             "card_name": "Seaside Citadel",
@@ -2372,9 +2166,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "107",
-            "notes": "Fixing Land\nLumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Fixing Land\nLumineth Realm-Lords"
         },
         {
             "card_name": "Arcane Sanctum",
@@ -2394,19 +2186,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "108",
-            "notes": "Fixing Land\nOssiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Fixing Land\nOssiarch Bonereapers"
         },
         {
             "card_name": "Ironweld Cogfort",
             "color": "R",
             "rarity": "rare",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 91,
             "color_identity": "R",
             "cost": "{4}{R}",
-            "rules_text": "Menace\nExhaust \u2013 Regiment {5}{R}: This Vehicle becomes an artifact creature. It deals 2 damage to each creature and battle you don't control.",
+            "rules_text": "Menace\nExhaust \u2014 Regiment {5}{R}: This Vehicle becomes an artifact creature. It deals 2 damage to each creature and battle you don't control.",
             "flavor_text": "[i]The Ironweld Cogfort is a marvel of engineering. Its thick armor turns even the enchanted blades of Chaos worshipers, while its guns reduce them to naught but slag.[/i]",
             "pt": "8/8",
             "special_text": "",
@@ -2416,15 +2206,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "109",
-            "notes": "Cities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar"
         },
         {
             "card_name": "Wildercorps Hunter",
             "color": "RG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Scout",
+            "type": "Creature \u2014 Human Scout",
             "number": 177,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
@@ -2438,19 +2226,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "110",
-            "notes": "Cities of Sigmar\nGruul Uncommons",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar\nGruul Uncommons"
         },
         {
             "card_name": "Ogor Leadbelcher",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Ogre Mercenary",
+            "type": "Creature \u2014 Ogre Mercenary",
             "number": 95,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "Squad {2}{R}\nReach\nEngorge \u2013 {3}{R}: This creature deals 2 damage to each opponent. Activate only during your turn and only once each turn. [i](You may activate this ability by sacrificing a permanent and paying the difference in mana costs between this and the sacrificed permanent. Mana cost includes color.)[/i]",
+            "rules_text": "Squad {2}{R}\nReach\nEngorge \u2014 {3}{R}: This creature deals 2 damage to each opponent. Activate only during your turn and only once each turn. [i](You may activate this ability by sacrificing a permanent and paying the difference in mana costs between this and the sacrificed permanent. Mana cost includes color.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
@@ -2460,19 +2246,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "111",
-            "notes": "Ogor Mawtribes",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes"
         },
         {
             "card_name": "Mournfang Rider",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Ogre Warrior",
+            "type": "Creature \u2014 Ogre Warrior",
             "number": 116,
             "color_identity": "G",
             "cost": "{4}{G}",
-            "rules_text": "Trample\nEngorge \u2013 {3}{G}: Create a Food token. [i](You may activate this ability by sacrificing a permanent and paying the difference in mana costs between this and the sacrificed permanent. Mana cost includes color.)[/i]",
+            "rules_text": "Trample\nEngorge \u2014 {3}{G}: Create a Food token. [i](You may activate this ability by sacrificing a permanent and paying the difference in mana costs between this and the sacrificed permanent. Mana cost includes color.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/4",
             "special_text": "",
@@ -2482,19 +2266,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "112",
-            "notes": "Ogor Mawtribes",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes"
         },
         {
             "card_name": "Ogor Gorger",
             "color": "BR",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Ogre Berserker",
+            "type": "Creature \u2014 Ogre Berserker",
             "number": 157,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
-            "rules_text": "Menace, trample\nThis creature attacks each combat if able.\nEngorge \u2013 {6}: Put two +1/+1 counters on this creature. If you sacrificed a permanent with mana value 3 or greater this turn, draw a card. Activate only as a sorcery.",
+            "rules_text": "Menace, trample\nThis creature attacks each combat if able.\nEngorge \u2014 {6}: Put two +1/+1 counters on this creature. If you sacrificed a permanent with mana value 3 or greater this turn, draw a card. Activate only as a sorcery.",
             "flavor_text": "[i]No matter how much they eat, Gorgers are cursed to never feel satisfied.[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2504,15 +2286,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "113",
-            "notes": "Ogor Mawtribes\nRakdos Uncommons",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes\nRakdos Uncommons"
         },
         {
             "card_name": "Ironweld Great Cannon",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 92,
             "color_identity": "R",
             "cost": "{3}{R}",
@@ -2526,9 +2306,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "114",
-            "notes": "Cities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar"
         },
         {
             "card_name": "A Tool for Every Job",
@@ -2538,7 +2316,7 @@
             "number": 27,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Choose one \u2013\n\u2022 Destroy target artifact.\n\u2022 Destroy target enchantment.\n\u2022 Exile up to one target card from a graveyard. Draw a card.",
+            "rules_text": "Choose one \u2014\n\u2022 Destroy target artifact.\n\u2022 Destroy target enchantment.\n\u2022 Exile up to one target card from a graveyard. Draw a card.",
             "flavor_text": "[i]Agents of the Order of Azyr undergo rigorous physical and spiritual training. But their greatest weapon is their extensive knowledge. For they know the weaknesses of Sigmar's enemies.[/i]",
             "pt": "",
             "special_text": "",
@@ -2548,15 +2326,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "115",
-            "notes": "Cities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar"
         },
         {
             "card_name": "Thundertusk Beastriders",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Ogre Warrior",
+            "type": "Creature \u2014 Ogre Warrior",
             "number": 99,
             "color_identity": "R",
             "cost": "{5}{R}",
@@ -2570,19 +2346,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "116",
-            "notes": "Ogor Mawtribes",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes"
         },
         {
             "card_name": "Bloodpelt Hunter",
             "color": "RG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Ogre Ranger",
+            "type": "Creature \u2014 Ogre Ranger",
             "number": 126,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
-            "rules_text": "Trample, reach\n[i]Unrelenting Hunter[/i] \u2013 Whenever you activate an ability of a creature you control that isn't a mana ability, put two +1/+1 counters on this creature. This ability triggers only once each turn.",
+            "rules_text": "Trample, reach\n[i]Unrelenting Hunter[/i] \u2014 Whenever you activate an ability of a creature you control that isn't a mana ability, put two +1/+1 counters on this creature. This ability triggers only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2592,19 +2366,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "117",
-            "notes": "Ogor Mawtribes\nGruul Uncommons",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes\nGruul Uncommons"
         },
         {
             "card_name": "Ogor Tyrant",
             "color": "BRG",
             "rarity": "rare",
-            "type": "Creature \u2013 Ogre Warrior",
+            "type": "Creature \u2014 Ogre Warrior",
             "number": 160,
             "color_identity": "BRG",
             "cost": "{1}{B}{R}{G}",
-            "rules_text": "Menace, trample\n[i]Bully in the First Degree[/i] \u2013 Engorge {2}{B}{R}{G}: You lose X life and draw X cards, where X is the greatest mana value among permanents you've sacrificed this turn. Activate only during your turn and only once each turn.",
+            "rules_text": "Menace, trample\n[i]Bully in the First Degree[/i] \u2014 Engorge {2}{B}{R}{G}: You lose X life and draw X cards, where X is the greatest mana value among permanents you've sacrificed this turn. Activate only during your turn and only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "4/5",
             "special_text": "",
@@ -2614,9 +2386,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "118",
-            "notes": "Ogor Mawtribes\nJund Rares",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes\nJund Rares"
         },
         {
             "card_name": "March of the Dawners",
@@ -2636,15 +2406,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "119",
-            "notes": "Cities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar"
         },
         {
             "card_name": "City's Heraldry",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 108,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -2658,15 +2426,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "120",
-            "notes": "Cities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar"
         },
         {
             "card_name": "Coin Malleus",
             "color": "",
             "rarity": "common",
-            "type": "Artifact \u2013 Treasure",
+            "type": "Artifact \u2014 Treasure",
             "number": 180,
             "color_identity": "C",
             "cost": "{1}",
@@ -2680,15 +2446,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "121",
-            "notes": "Cities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar"
         },
         {
             "card_name": "Vanguard of Light",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Battle \u2013 Control Point",
+            "type": "Battle \u2014 Control Point",
             "number": 30,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -2702,9 +2466,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "122",
-            "notes": "Battles",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Battles"
         },
         {
             "card_name": "Shining Company",
@@ -2724,15 +2486,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "123",
-            "notes": "Cards I Want to Rework\nLumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cards I Want to Rework\nLumineth Realm-Lords"
         },
         {
             "card_name": "Clashing Tides",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Battle \u2013 Control Point",
+            "type": "Battle \u2014 Control Point",
             "number": 35,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -2746,15 +2506,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "124",
-            "notes": "Chopping Block Cards\nBattles",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Chopping Block Cards\nBattles"
         },
         {
             "card_name": "Feast of Bones",
             "color": "B",
             "rarity": "rare",
-            "type": "Battle \u2013 Control Point",
+            "type": "Battle \u2014 Control Point",
             "number": 61,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -2768,15 +2526,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "125",
-            "notes": "Battles",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Battles"
         },
         {
             "card_name": "Roiling Roots",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Battle \u2013 Control Point",
+            "type": "Battle \u2014 Control Point",
             "number": 118,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -2790,9 +2546,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "126",
-            "notes": "Battles",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Battles"
         },
         {
             "card_name": "Lumineth Sanctuary",
@@ -2812,9 +2566,7 @@
             "artist": "Eavy' Metal Team",
             "alias": "",
             "position": "127",
-            "notes": "Lumineth Realm-Lords\nFixing Cycle",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords\nFixing Cycle"
         },
         {
             "card_name": "Sigmarite Strongpoint",
@@ -2834,9 +2586,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "128",
-            "notes": "Cities of Sigmar\nFixing Cycle",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar\nFixing Cycle"
         },
         {
             "card_name": "Skaven Warren",
@@ -2856,9 +2606,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "129",
-            "notes": "Skaven\nFixing Cycle",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven\nFixing Cycle"
         },
         {
             "card_name": "Ogor Glutthold",
@@ -2878,9 +2626,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "130",
-            "notes": "Ogor Mawtribes\nFixing Cycle",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes\nFixing Cycle"
         },
         {
             "card_name": "Ossiarchh Necropolis",
@@ -2900,15 +2646,13 @@
             "artist": "Eavy' Metal Team",
             "alias": "",
             "position": "131",
-            "notes": "Ossiarch Bonereapers\nFixing Cycle",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers\nFixing Cycle"
         },
         {
             "card_name": "Vanari Lord Regent",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2013 Elf Knight",
+            "type": "Creature \u2014 Elf Knight",
             "number": 53,
             "color_identity": "U",
             "cost": "{4}{U}",
@@ -2922,9 +2666,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "132",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Settler's Gain",
@@ -2944,9 +2686,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "133",
-            "notes": "Lumineth Realm-Lords\nUtility Land Cycle",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords\nUtility Land Cycle"
         },
         {
             "card_name": "Gothizzar",
@@ -2966,9 +2706,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "134",
-            "notes": "Ossiarch Bonereapers\nUtility Land Cycle",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers\nUtility Land Cycle"
         },
         {
             "card_name": "The Gnaw",
@@ -2988,9 +2726,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "135",
-            "notes": "Skaven\nUtility Land Cycle",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven\nUtility Land Cycle"
         },
         {
             "card_name": "Great Gutfort",
@@ -3010,9 +2746,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "136",
-            "notes": "Ogor Mawtribes\nUtility Land Cycle",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes\nUtility Land Cycle"
         },
         {
             "card_name": "Hammerhal",
@@ -3032,19 +2766,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "137",
-            "notes": "Cities of Sigmar\nUtility Land Cycle",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar\nUtility Land Cycle"
         },
         {
             "card_name": "Rat Ogor",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Rat Mutant",
+            "type": "Creature \u2014 Rat Mutant",
             "number": 96,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "Trample\n[i]Ruinaiton[/i] \u2013 Whenever this creature attacks, if there are cards with total mana value 13 or greater among cards in your graveyard, target creature an opponent controls can't block this turn.",
+            "rules_text": "Trample\n[i]Ruinaiton[/i] \u2014 Whenever this creature attacks, if there are cards with total mana value 13 or greater among cards in your graveyard, target creature an opponent controls can't block this turn.",
             "flavor_text": "[i]Twisted beyond recognition by the fleshmeld masters of the Clans Moulder, these feral mutants are loosed on the battlefield to savage all in their path. [/i]",
             "pt": "4/3",
             "special_text": "",
@@ -3054,19 +2786,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "138",
-            "notes": "Skaven",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven"
         },
         {
             "card_name": "Brood Terror",
             "color": "R",
             "rarity": "rare",
-            "type": "Creature \u2013 Rat Mutant",
+            "type": "Creature \u2014 Rat Mutant",
             "number": 83,
             "color_identity": "R",
             "cost": "{5}{R}",
-            "rules_text": "Menace\n[i]Lend a Claw \u2013[/i] {3}{R}: Discard your hand, draw X cards, where X is the greatest mana value among cards discarded this way. Activate only once per turn and only as a sorcery.",
+            "rules_text": "Menace\n[i]Lend a Claw \u2014[/i] {3}{R}: Discard your hand, draw X cards, where X is the greatest mana value among cards discarded this way. Activate only once per turn and only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "6/5",
             "special_text": "",
@@ -3076,19 +2806,17 @@
             "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
             "position": "139",
-            "notes": "Skaven",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven"
         },
         {
             "card_name": "Skaven Plague Monk",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Rat Monk",
+            "type": "Creature \u2014 Rat Monk",
             "number": 78,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Squad {1}{B} [i](As an additional cost to cast this spell, you may pay {1}{B} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]\n[i]Ruination[/i] \u2013 This creature has deathtouch if the total mana value among cards in your graveyard is greater than or equal to 13.",
+            "rules_text": "Squad {1}{B} [i](As an additional cost to cast this spell, you may pay {1}{B} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]\n[i]Ruination[/i] \u2014 This creature has deathtouch if the total mana value among cards in your graveyard is greater than or equal to 13.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -3098,9 +2826,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "140",
-            "notes": "Skaven",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven"
         },
         {
             "card_name": "Mortisan Reconstruction",
@@ -3120,9 +2846,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "141",
-            "notes": "Ossiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers"
         },
         {
             "card_name": "Unbind",
@@ -3142,19 +2866,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "142",
-            "notes": "Agnostic Card(s)",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Agnostic Card(s)"
         },
         {
             "card_name": "Clawlord on Gnaw-beast",
             "color": "BR",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Rat Knight",
+            "type": "Creature \u2014 Rat Knight",
             "number": 130,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
-            "rules_text": "Menace\n[i]Cruel Captain \u2013[/i] Sacrifice a creature: Creatures you control get +X/+0 until end of turn, where X is one plus the sacrificed creature's mana value. Activate only during your turn and only once each turn.",
+            "rules_text": "Menace\n[i]Cruel Captain \u2014[/i] Sacrifice a creature: Creatures you control get +X/+0 until end of turn, where X is one plus the sacrificed creature's mana value. Activate only during your turn and only once each turn.",
             "flavor_text": "[i]\u201cYou move-fight now-now. Unless another one of you worthless weaklings wants to be my Gnaw-beast's next food-snack!\u201d[/i]",
             "pt": "2/4",
             "special_text": "",
@@ -3164,9 +2886,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "143",
-            "notes": "Skaven\nRakdos Uncommons",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven\nRakdos Uncommons"
         },
         {
             "card_name": "Total Eclipse",
@@ -3186,19 +2906,17 @@
             "artist": "Eavy' Metal Team",
             "alias": "",
             "position": "144",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Ogor Irongut",
             "color": "BRG",
             "rarity": "mythic",
-            "type": "Creature \u2013 Ogre Warrior",
+            "type": "Creature \u2014 Ogre Warrior",
             "number": 158,
             "color_identity": "BRG",
             "cost": "{2}{B}{R}{G}",
-            "rules_text": "Squad\u2013Sacrifice nonland permanents with total mana value 3 or greater.\nTrample, haste\nExhaust \u2013 Engorge {3}{B}{R}{G}: Put a double strike counter and three +1/+1 counters on this creature.",
+            "rules_text": "Squad\u2014Sacrifice nonland permanents with total mana value 3 or greater.\nTrample, haste\nExhaust \u2014 Engorge {3}{B}{R}{G}: Put a double strike counter and three +1/+1 counters on this creature.",
             "flavor_text": "[i][/i]",
             "pt": "5/4",
             "special_text": "",
@@ -3208,15 +2926,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "145",
-            "notes": "Ogor Mawtribes",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes"
         },
         {
             "card_name": "Globb Glittermaw",
             "color": "BRG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Ogre Warrior Noble",
+            "type": "Legendary Creature \u2014 Ogre Warrior Noble",
             "number": 137,
             "color_identity": "BRG",
             "cost": "{1}{B}{R}{G}",
@@ -3230,19 +2946,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "146",
-            "notes": "Ogor Mawtribes\nJund Mythics",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes\nJund Mythics"
         },
         {
             "card_name": "Braggoth Vardruk",
             "color": "BRG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Ogre Warrior",
+            "type": "Legendary Creature \u2014 Ogre Warrior",
             "number": 128,
             "color_identity": "BRG",
             "cost": "{2}{B}{R}{G}",
-            "rules_text": "Menace, trample, ward {2}\nEngorge \u2013 {3}{B}{R}{G}: Monstrosity X, where X is the greatest mana value among permanents you've sacrificed this turn.\nWhenever you sacrifice a permanent, this creature deals X damage to any target, where X is the sacrificed permanent's mana value.",
+            "rules_text": "Menace, trample, ward {2}\nEngorge \u2014 {3}{B}{R}{G}: Monstrosity X, where X is the greatest mana value among permanents you've sacrificed this turn.\nWhenever you sacrifice a permanent, this creature deals X damage to any target, where X is the sacrificed permanent's mana value.",
             "flavor_text": "[i][/i]",
             "pt": "4/6",
             "special_text": "",
@@ -3252,9 +2966,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "147",
-            "notes": "Ogor Mawtribes",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes"
         },
         {
             "card_name": "Great Mawpot",
@@ -3274,9 +2986,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "148",
-            "notes": "Ogor Mawtribes\nFaction Terrain Cycle",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes\nFaction Terrain Cycle"
         },
         {
             "card_name": "Shrine Luminor",
@@ -3296,9 +3006,7 @@
             "artist": "Eavy' Metal Team",
             "alias": "",
             "position": "149",
-            "notes": "Lumineth Realm-Lords\nFaction Terrain Cycle",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords\nFaction Terrain Cycle"
         },
         {
             "card_name": "Nexus Siphon",
@@ -3318,9 +3026,7 @@
             "artist": "Eavy' Metal Team",
             "alias": "",
             "position": "150",
-            "notes": "Faction Terrain Cycle\nCities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Faction Terrain Cycle\nCities of Sigmar"
         },
         {
             "card_name": "Skaven Gnawhole",
@@ -3330,7 +3036,7 @@
             "number": 165,
             "color_identity": "UBR",
             "cost": "{U}{B}{R}",
-            "rules_text": "[i]The Endless Vermintide \u2013[/i] {T}, Discard a card: Return any number of target nonland cards from your graveyard to your hand with mana value X or less, where X is the discarded card's mana value. Activate only once each turn and only as a sorcery.",
+            "rules_text": "[i]The Endless Vermintide \u2014[/i] {T}, Discard a card: Return any number of target nonland cards from your graveyard to your hand with mana value X or less, where X is the discarded card's mana value. Activate only once each turn and only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3340,9 +3046,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "151",
-            "notes": "Faction Terrain Cycle\nSkaven\nGrixis Rares",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Faction Terrain Cycle\nSkaven\nGrixis Rares"
         },
         {
             "card_name": "Bloodfell Caves",
@@ -3362,9 +3066,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "152",
-            "notes": "Gain Lands\nFixing Lands",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Gain Lands\nFixing Lands"
         },
         {
             "card_name": "Blossoming Sands",
@@ -3384,9 +3086,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "153",
-            "notes": "Gain Lands\nFixing Lands",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Gain Lands\nFixing Lands"
         },
         {
             "card_name": "Dismal Backwater",
@@ -3406,9 +3106,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "154",
-            "notes": "Gain Lands\nFixing Lands",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Gain Lands\nFixing Lands"
         },
         {
             "card_name": "Jungle Hollow",
@@ -3428,9 +3126,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "155",
-            "notes": "Gain Lands\nFixing Lands",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Gain Lands\nFixing Lands"
         },
         {
             "card_name": "Rugged Highlands",
@@ -3450,9 +3146,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "156",
-            "notes": "Gain Lands\nFixing Lands",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Gain Lands\nFixing Lands"
         },
         {
             "card_name": "Scoured Barrens",
@@ -3472,9 +3166,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "157",
-            "notes": "Gain Lands\nFixing Lands",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Gain Lands\nFixing Lands"
         },
         {
             "card_name": "Saltwater Cliffs",
@@ -3494,9 +3186,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "158",
-            "notes": "Gain Lands\nFixing Lands",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Gain Lands\nFixing Lands"
         },
         {
             "card_name": "Thornwood Falls",
@@ -3516,9 +3206,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "159",
-            "notes": "Gain Lands\nFixing Lands",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Gain Lands\nFixing Lands"
         },
         {
             "card_name": "Tranquil Cove",
@@ -3538,9 +3226,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "160",
-            "notes": "Gain Lands\nFixing Lands",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Gain Lands\nFixing Lands"
         },
         {
             "card_name": "Wind-Scarred Crag",
@@ -3560,9 +3246,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "161",
-            "notes": "Gain Lands\nFixing Lands",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Gain Lands\nFixing Lands"
         },
         {
             "card_name": "Aetherquartz, Realmstone of Hsyh",
@@ -3582,9 +3266,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "162",
-            "notes": "Realmstone Cycle\nLumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Realmstone Cycle\nLumineth Realm-Lords"
         },
         {
             "card_name": "Grave-Sand, Realmstone of Shyish",
@@ -3604,9 +3286,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "163",
-            "notes": "Realmstone Cycle\nOssiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Realmstone Cycle\nOssiarch Bonereapers"
         },
         {
             "card_name": "Varanite, Realmstone of Chaos",
@@ -3626,9 +3306,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "164",
-            "notes": "Realmstone Cycle\nSkaven",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Realmstone Cycle\nSkaven"
         },
         {
             "card_name": "Amberbone, Realmstone of Ghur",
@@ -3648,9 +3326,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "165",
-            "notes": "Realmstone Cycle\nOgor Mawtribes",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Realmstone Cycle\nOgor Mawtribes"
         },
         {
             "card_name": "Emberstone, Realmstone of Aqshy",
@@ -3670,19 +3346,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "166",
-            "notes": "Realmstone Cycle\nCities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Realmstone Cycle\nCities of Sigmar"
         },
         {
             "card_name": "Scinari Calligrave",
             "color": "WUG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Wizard",
+            "type": "Creature \u2014 Elf Wizard",
             "number": 162,
             "color_identity": "WUG",
             "cost": "{G}{W}{U}",
-            "rules_text": "[i]Realmscribe[/i] \u2013 When this creature enters, you may search your library for a card with convoke, reveal it, put it into your hand, then shuffle.",
+            "rules_text": "[i]Realmscribe[/i] \u2014 When this creature enters, you may search your library for a card with convoke, reveal it, put it into your hand, then shuffle.",
             "flavor_text": "[i]\u201cEach stroke of my brush is made with purpose. Each drop of ink tells a story. A story of redemption? Of failure? Only we have the knowledge and discipline to find out.\u201d [/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3692,9 +3366,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "167",
-            "notes": "Lumineth Realm-Lords\nBant Uncommons",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords\nBant Uncommons"
         },
         {
             "card_name": "Lightning Reactions",
@@ -3714,9 +3386,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "168",
-            "notes": "Lumineth Realm-Lords\nBant Uncommons",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords\nBant Uncommons"
         },
         {
             "card_name": "Warpgale",
@@ -3726,7 +3396,7 @@
             "number": 176,
             "color_identity": "UBR",
             "cost": "{1}{U}{B}{R}",
-            "rules_text": "[i]Ruinaiton[/i] \u2013 Look at the top five cards of your library. Put one of those cards into your hand and the rest into your graveyard. Warpgale deals damage to target creature or battle equal to the greatest mana value among cards put into your graveyard this way. If if there are cards with total mana value 13 or greater among cards in your graveyard, choose two cards instead.",
+            "rules_text": "[i]Ruinaiton[/i] \u2014 Look at the top five cards of your library. Put one of those cards into your hand and the rest into your graveyard. Warpgale deals damage to target creature or battle equal to the greatest mana value among cards put into your graveyard this way. If if there are cards with total mana value 13 or greater among cards in your graveyard, choose two cards instead.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3736,15 +3406,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "169",
-            "notes": "Skaven\nGrixis Uncommons",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven\nGrixis Uncommons"
         },
         {
             "card_name": "Fusil-cannon",
             "color": "G",
             "rarity": "common",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 112,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -3758,15 +3426,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "170",
-            "notes": "Cities of Sigmar\nBattles Matter Equipment Cycle",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar\nBattles Matter Equipment Cycle"
         },
         {
             "card_name": "Splatter Cleaver",
             "color": "R",
             "rarity": "common",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 98,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -3780,15 +3446,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "171",
-            "notes": "Ogor Mawtribes\nBattles Matter Equipment",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes\nBattles Matter Equipment"
         },
         {
             "card_name": "Eshin Dagger",
             "color": "B",
             "rarity": "common",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 59,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -3802,9 +3466,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "172",
-            "notes": "Battles Matter Equipment",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Battles Matter Equipment"
         },
         {
             "card_name": "Always More Bodies",
@@ -3814,7 +3476,7 @@
             "number": 81,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "[i]Ruination[/i] \u2013 Create a token that's a copy of target creature you control, except it has haste. Sacrifice it at the beginning of the next end step. If the total mana value among cards in your graveyard is greater than or equal to 13, create two of those tokens instead.",
+            "rules_text": "[i]Ruination[/i] \u2014 Create a token that's a copy of target creature you control, except it has haste. Sacrifice it at the beginning of the next end step. If the total mana value among cards in your graveyard is greater than or equal to 13, create two of those tokens instead.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3824,19 +3486,17 @@
             "artist": "Games Workshop + Eavy' Metal Team",
             "alias": "",
             "position": "173",
-            "notes": "Skaven",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven"
         },
         {
             "card_name": "Alchemite Warforger",
             "color": "WRG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Wizard",
+            "type": "Creature \u2014 Human Wizard",
             "number": 124,
             "color_identity": "WRG",
             "cost": "{R}{G}{W}",
-            "rules_text": "[i]Runic Crucible[/i] \u2013 Regiment {6}: Until end of turn, change the base power of each other creature you control to 1 plus the number of creatures you control.",
+            "rules_text": "[i]Runic Crucible[/i] \u2014 Regiment {6}: Until end of turn, change the base power of each other creature you control to 1 plus the number of creatures you control.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -3846,15 +3506,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "174",
-            "notes": "Cities of Sigmar\nNaya Uncommons",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar\nNaya Uncommons"
         },
         {
             "card_name": "Plains",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Plains",
+            "type": "Basic Land \u2014 Plains",
             "number": 210,
             "color_identity": "W",
             "cost": "",
@@ -3868,15 +3526,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "175",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Island",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Island",
+            "type": "Basic Land \u2014 Island",
             "number": 211,
             "color_identity": "U",
             "cost": "",
@@ -3890,15 +3546,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "176",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Swamp",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Swamp",
+            "type": "Basic Land \u2014 Swamp",
             "number": 212,
             "color_identity": "B",
             "cost": "",
@@ -3912,15 +3566,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "177",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Mountain",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Mountain",
+            "type": "Basic Land \u2014 Mountain",
             "number": 213,
             "color_identity": "R",
             "cost": "",
@@ -3934,15 +3586,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "178",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Forest",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Forest",
+            "type": "Basic Land \u2014 Forest",
             "number": 214,
             "color_identity": "G",
             "cost": "",
@@ -3956,19 +3606,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "179",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Skaven Deathmaster",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Rat Assassin",
+            "type": "Creature \u2014 Rat Assassin",
             "number": 77,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "[i]Ruination[/i] \u2013 If the total mana value among cards in your graveyard is greater than or equal to 13, you may cast this spell as though it had flash.\nWhen this creature enters, destroy target creature an opponent controls.",
+            "rules_text": "[i]Ruination[/i] \u2014 If the total mana value among cards in your graveyard is greater than or equal to 13, you may cast this spell as though it had flash.\nWhen this creature enters, destroy target creature an opponent controls.",
             "flavor_text": "[i]Unlike most Skaven, Deathmasters are patient, silent, and measured killers. Those unfortunate enough to be their mark live in blissful ignorance until it's far too late. [/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3978,15 +3626,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "180",
-            "notes": "Skaven",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven"
         },
         {
             "card_name": "Master Moulder",
             "color": "UB",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Rat Scientist",
+            "type": "Creature \u2014 Rat Scientist",
             "number": 149,
             "color_identity": "UB",
             "cost": "{U}{B}",
@@ -4000,15 +3646,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "181",
-            "notes": "Skaven\nUnfinished Cards\nDimir Uncommons",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven\nUnfinished Cards\nDimir Uncommons"
         },
         {
             "card_name": "Ogor Butcher",
             "color": "RG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Ogre Wizard",
+            "type": "Creature \u2014 Ogre Wizard",
             "number": 156,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
@@ -4022,19 +3666,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "182",
-            "notes": "Ogor Mawtribes\nGruul Uncommons",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes\nGruul Uncommons"
         },
         {
             "card_name": "Ogor Slaughtermaster",
             "color": "BRG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Ogre Wizard",
+            "type": "Creature \u2014 Ogre Wizard",
             "number": 159,
             "color_identity": "BRG",
             "cost": "{1}{B}{R}{G}",
-            "rules_text": "Trample\nEngorge \u2013 {2}{B}{R}{G}: Distribute three +1/+1 counters among one, two, or three target creatures you control. Activate only once each turn, and only as a sorcery.",
+            "rules_text": "Trample\nEngorge \u2014 {2}{B}{R}{G}: Distribute three +1/+1 counters among one, two, or three target creatures you control. Activate only once each turn, and only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -4044,9 +3686,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "183",
-            "notes": "Ogor Mawtribes\nJund Uncommons",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes\nJund Uncommons"
         },
         {
             "card_name": "Ravenous Fortitude",
@@ -4066,15 +3706,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "184",
-            "notes": "Ogor Mawtribes",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes"
         },
         {
             "card_name": "Icefall Yhetee",
             "color": "BRG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Yeti",
+            "type": "Creature \u2014 Yeti",
             "number": 142,
             "color_identity": "BRG",
             "cost": "{B}{R}{G}",
@@ -4088,19 +3726,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "185",
-            "notes": "Ogor Mawtribes\nJund Uncommons",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes\nJund Uncommons"
         },
         {
             "card_name": "Ogor Ironblaster",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 94,
             "color_identity": "R",
             "cost": "{4}{R}",
-            "rules_text": "Haste\nEngorge \u2013 Exhaust \u2013 {3}{R}: This Vehicle becomes an artifact creature. Put a +1/+1 counter on this Vehicle.",
+            "rules_text": "Haste\nEngorge \u2014 Exhaust \u2014 {3}{R}: This Vehicle becomes an artifact creature. Put a +1/+1 counter on this Vehicle.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -4110,15 +3746,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "186",
-            "notes": "Ogor Mawtribes",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes"
         },
         {
             "card_name": "Liege Immortis",
             "color": "UB",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Skeleton Soldier Noble",
+            "type": "Creature \u2014 Skeleton Soldier Noble",
             "number": 147,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
@@ -4132,9 +3766,7 @@
             "artist": "tan eric",
             "alias": "",
             "position": "187",
-            "notes": "Ossiarch Bonereapers\nDimir Uncommons",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers\nDimir Uncommons"
         },
         {
             "card_name": "Lode of Saturation",
@@ -4154,15 +3786,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "188",
-            "notes": "Ossiarch Bonereapers",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers"
         },
         {
             "card_name": "Grisly Repast",
             "color": "B",
             "rarity": "common",
-            "type": "Artifact \u2013 Food",
+            "type": "Artifact \u2014 Food",
             "number": 64,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -4176,19 +3806,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "189",
-            "notes": "Ogor Mawtribes",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes"
         },
         {
             "card_name": "Frostlord on Stonehorn",
             "color": "BRG",
             "rarity": "rare",
-            "type": "Creature \u2013 Ogre Warrior",
+            "type": "Creature \u2014 Ogre Warrior",
             "number": 135,
             "color_identity": "BRG",
             "cost": "{3}{B}{R}{G}",
-            "rules_text": "Trample, haste\nEngorge \u2013 {5}: Monstrosity 3.\n[i]Frost Spear[/i] \u2013 Whenever this creature attacks, it deals damage equal to its power to up to one target creature you don't control. If this creature is monstrous, excess damage is dealt to that creature's controller instead.",
+            "rules_text": "Trample, haste\nEngorge \u2014 {5}: Monstrosity 3.\n[i]Frost Spear[/i] \u2014 Whenever this creature attacks, it deals damage equal to its power to up to one target creature you don't control. If this creature is monstrous, excess damage is dealt to that creature's controller instead.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -4198,19 +3826,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "190",
-            "notes": "Ogor Mawtribes\nJund Rares",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes\nJund Rares"
         },
         {
             "card_name": "Stonehorn Beastrider",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Ogre Warrior",
+            "type": "Creature \u2014 Ogre Warrior",
             "number": 119,
             "color_identity": "G",
             "cost": "{5}{G}",
-            "rules_text": "Trample\nEngorge \u2013 {4}: Monstrosity 2. [i](If this creature isn't monstrous, put two +1/+1 counters on it and it becomes monstrous.)[/i]\nWhen this creature enters or becomes monstrous, destroy up to one artifact, enchantment, or creature with flying you don't control.",
+            "rules_text": "Trample\nEngorge \u2014 {4}: Monstrosity 2. [i](If this creature isn't monstrous, put two +1/+1 counters on it and it becomes monstrous.)[/i]\nWhen this creature enters or becomes monstrous, destroy up to one artifact, enchantment, or creature with flying you don't control.",
             "flavor_text": "[i][/i]",
             "pt": "4/5",
             "special_text": "",
@@ -4220,15 +3846,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "191",
-            "notes": "Ogor Mawtribes",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes"
         },
         {
             "card_name": "Frost Saber",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Cat",
+            "type": "Creature \u2014 Cat",
             "number": 87,
             "color_identity": "R",
             "cost": "{R}",
@@ -4242,15 +3866,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "192",
-            "notes": "Ogor Mawtribes",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes"
         },
         {
             "card_name": "Gnoblar",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Goblin Ogre",
+            "type": "Creature \u2014 Goblin Ogre",
             "number": 62,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -4264,9 +3886,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "193",
-            "notes": "Ogor Mawtribes",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes"
         },
         {
             "card_name": "Law of the Maw",
@@ -4286,9 +3906,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "194",
-            "notes": "Ogor Mawtribes\nJund Rares",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes\nJund Rares"
         },
         {
             "card_name": "Windleap",
@@ -4308,9 +3926,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "195",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Teclian Meditation",
@@ -4330,9 +3946,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "196",
-            "notes": "Lumineth Realm-Lords",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords"
         },
         {
             "card_name": "Training Arena",
@@ -4352,9 +3966,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "197",
-            "notes": "Cities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar"
         },
         {
             "card_name": "Sigmar's Thunder",
@@ -4374,9 +3986,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "198",
-            "notes": "Cities of Sigmar",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar"
         },
         {
             "card_name": "Vigor of Champions",
@@ -4396,9 +4006,7 @@
             "artist": "Games Workshop + White Dwarf",
             "alias": "",
             "position": "199",
-            "notes": "Cities of Sigmar\nChampions Cycle",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Cities of Sigmar\nChampions Cycle"
         },
         {
             "card_name": "On the Mawpath",
@@ -4418,9 +4026,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "200",
-            "notes": "Ogor Mawtribes",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes"
         },
         {
             "card_name": "Ironblaster's Hail Shot",
@@ -4440,15 +4046,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "201",
-            "notes": "Ogor Mawtribes",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes"
         },
         {
             "card_name": "Agents of Fate",
             "color": "U",
             "rarity": "rare",
-            "type": "Battle \u2013 Control Point",
+            "type": "Battle \u2014 Control Point",
             "number": 32,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -4462,15 +4066,13 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "202",
-            "notes": "Battles",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Battles"
         },
         {
             "card_name": "The Liferoots",
             "color": "G",
             "rarity": "rare",
-            "type": "Battle \u2013 Control Point",
+            "type": "Battle \u2014 Control Point",
             "number": 114,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -4484,9 +4086,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "203",
-            "notes": "Battles",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Battles"
         },
         {
             "card_name": "Deflect Blame",
@@ -4506,9 +4106,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "204",
-            "notes": "Skaven",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven"
         },
         {
             "card_name": "Wisdom of Champions",
@@ -4528,9 +4126,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "205",
-            "notes": "Ossiarch Bonereapers\nChampions Cycle",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ossiarch Bonereapers\nChampions Cycle"
         },
         {
             "card_name": "Discipline of Champions",
@@ -4550,9 +4146,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "206",
-            "notes": "Lumineth Realm-Lords\nChampions Cycle",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lumineth Realm-Lords\nChampions Cycle"
         },
         {
             "card_name": "Cunning of Champions",
@@ -4572,9 +4166,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "207",
-            "notes": "Skaven\nChampions Cycle",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven\nChampions Cycle"
         },
         {
             "card_name": "Fury of Champions",
@@ -4594,9 +4186,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "208",
-            "notes": "Ogor Mawtribes\nChampions Cycle",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Ogor Mawtribes\nChampions Cycle"
         },
         {
             "card_name": "Hand of Dust",
@@ -4616,9 +4206,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "209",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Temporary Peace",
@@ -4638,9 +4226,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "210",
-            "notes": "Faction Agnostic Cards",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Faction Agnostic Cards"
         },
         {
             "card_name": "Skaven Tactics",
@@ -4660,19 +4246,17 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "211",
-            "notes": "Skaven",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven"
         },
         {
             "card_name": "Arch-Warlock",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Rat Artificer Wizard",
+            "type": "Creature \u2014 Rat Artificer Wizard",
             "number": 34,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "[i]Overseer of the Enginecovens[/i] \u2013 Whenever you cast an artifact spell with mana value 1 or greater, target creature you control connives.",
+            "rules_text": "[i]Overseer of the Enginecovens[/i] \u2014 Whenever you cast an artifact spell with mana value 1 or greater, target creature you control connives.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4682,9 +4266,7 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "212",
-            "notes": "Skaven",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven"
         },
         {
             "card_name": "Too Quick to Hit-Hit",
@@ -4704,9 +4286,8 @@
             "artist": "Games Workshop",
             "alias": "",
             "position": "213",
-            "notes": "Skaven",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Skaven"
         }
-    ]
+    ],
+    "version": 4
 }

@@ -1,4 +1,31 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Dawnbringer Crusade
+rules_text: 
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.
+special_text: 
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create three 1/1 red Human Soldier creature tokens.
+II — Creatures you control have “{T}, Exert this creature: Put a +1/+1 counter on target creature you control. [i](An exerted permanent won't untap during your next untap step.)[/i]
+III — Search your library for up to X basic land cards, where X is the number of tapped creatures you control, put those cards onto the battlefield tapped, then shuffle.
+
+Skaven Plague Monk
+rules_text: Squad {1}{B} [i](As an additional cost to cast this spell, you may pay {1}{B} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+Ruination — This creature has deathtouch if the total mana value among cards in your graveyard is greater than or equal to 13. => Squad {1}{B} [i](As an additional cost to cast this spell, you may pay {1}{B} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+[i]Ruination[/i] — This creature has deathtouch if the total mana value among cards in your graveyard is greater than or equal to 13.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Verminlord Warpseer added.
